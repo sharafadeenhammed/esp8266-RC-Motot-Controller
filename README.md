@@ -16,7 +16,7 @@ arduino ide
  
        in4 to d4
  
-4. connect a 9v power source to the vcc in the l296n driver
+4. connect a 9v power source to the vcc on the l296n driver
 5. connect the 5v on the l296n driver to the vin on your esp.
 6. the you should be all set to test your rc car
 
