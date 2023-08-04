@@ -2,7 +2,8 @@
 
 ## software
 upload this code to your esp8266 board with 
-arduino ide 
+arduino ide.
+make sure you have the esp board installed on your arduino ide.
 
 ## hardware setup 
 1. connect two brushed dc motor to l296n motor driver
