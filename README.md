@@ -7,13 +7,14 @@ arduino ide
 ## hardware setup 
 1. connect two brushed dc motor to l296n motor driver
 2. connect the l296n motor driver to the esp8266 pin as below
- in1 to d1
 
- in2 to d2
+       in1 to d1
+
+       in2 to d2
  
- in3 to d3
+       in3 to d3
  
- in4 to d4
+       in4 to d4
  
 4. connect a 9v power source to the vcc in the l296n driver
 5. connect the 5v on the l296n driver to the vin on your esp.
