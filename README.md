@@ -21,9 +21,9 @@ arduino ide
 6. the you should be all set to test your rc car
 
 ## control console
-once esp8266 is power you should see a network named Motor Controller which is created by the esp8266 connect to it with the password 123456789, after successfully connected to the network open your browser and go to http://192.168.10.10 to show the control console.
+once esp8266 is power you should see a network named Motor Controller which is created by the esp8266 connect to the wifi network with the password 123456789, after successfully connected to the network open your browser and go to http://192.168.10.10 to show the control console.
 
-have fun driving your rc car 😊🚀🚀 
+have fun with your rc car 😊 🚀 🚀 
 
 
 
