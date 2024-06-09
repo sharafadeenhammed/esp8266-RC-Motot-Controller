@@ -1,3 +1,4 @@
+# This code is completely free to use if you find it useful please leave a star ⭐ and if you need help contact me on my email allahsegun@gmail.com 
 # esp8266-RC-Motot-Controller
 
 ## software
